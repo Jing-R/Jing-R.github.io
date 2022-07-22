@@ -1,7 +1,7 @@
 ---
 title: "Multivariate Relations Aggregation Learning in Social Networks"
 collection: publications
-permalink: /publication/16-2020-Multivariate Relations Aggregation Learning in Social Networks
+permalink: "/files/16-2020-Multivariate Relations Aggregation Learning in Social Networks.pdf"
 excerpt: ''
 date: 2020-06-01
 venue: 'ACM/IEEE Joint Conference on Digital Libraries (JCDL)'
