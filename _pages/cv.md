@@ -68,6 +68,8 @@ Click to download my CV
 ======
 https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV.pdf
 
+[迹忆客](https://www.jiyik.com)
+
 <!-- 
 Publications
 ======
