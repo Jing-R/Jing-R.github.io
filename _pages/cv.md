@@ -55,9 +55,9 @@ Professional Services
 ======
 * Invited Journal Reviewer
   *	ACM Transactions on Knowledge Discovery from Data
-  *	IEEE Intelligent System
+  *	IEEE Intelligent Systems
   *	Artificial Intelligence Review
-  *	Peerj Computer Science
+  *	PeerJ Computer Science
   *	IEEE Access 
 * Program Committee Member
   *	IAAA Workshop of IEEE ICDM 2021
