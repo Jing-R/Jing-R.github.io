@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Journal"
 permalink: /publications/
 author_profile: true
 ---
-
-<!-- Journal
-==== -->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -15,8 +12,17 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.url == "/Journal" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
-<!-- Conference
-==== -->
+Conference
+====
+{% for post in site.publications reversed %}
+  {% if post.url == "/Conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
