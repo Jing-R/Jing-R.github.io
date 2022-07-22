@@ -12,11 +12,11 @@ redirect_from:
 <!-- Education
 ====== -->
 * Federation University Australia, Institute of Innovation, Science and Sustainability	
-  * PhD in Information Technology	
+  * Ph.D in Information Technology	
   * Ballarat, Australia
-  * Jul.2022 – Pre.
+  * Jul. 2022 – Pre.
 * Dalian University of Technology, School of Software (ARWU 2020: 201-300)	
-  * MSc in Software Engineering (by Research)
+  * M.Sc in Software Engineering (by Research)
   * Average Score: 84.16/100	
   * Dalian, China
   * Sep. 2018 – Jun. 2020
@@ -25,7 +25,7 @@ redirect_from:
   * Taichung, Taiwan
   * Feb. 2016 – Jul. 2016
 * Huaqiao University, School of Computer Science and Technology	
-  * BSc in Software Engineering 
+  * B.Sc in Software Engineering 
   * Average Score: 80/100	
   * Xiamen, China
   * Sep. 2014 – Jul. 2018
@@ -36,7 +36,7 @@ Employment
 * Research Fellow	
   * Dalian University of Technology, School of Software	
   * Dalian, China
-  * Jul. 2020 – Jul.2021
+  * Jul. 2020 – Jul. 2021
   
 Honors 
 ======
