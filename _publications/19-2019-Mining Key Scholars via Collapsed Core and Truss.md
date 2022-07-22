@@ -1,7 +1,7 @@
 ---
 title: "Mining Key Scholars via Collapsed Core and Truss"
 collection: publications
-permalink: /publication/19-2019-Mining Key Scholars via Collapsed Core and Truss
+permalink: "/files/19-2019-Mining Key Scholars via Collapsed Core and Truss.pdf"
 excerpt: ''
 date: 2019-06-01
 venue: 'The 4th IEEE Cyber Science and Technology Congress (CyberSciTech)'
