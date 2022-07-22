@@ -64,7 +64,6 @@ Professional Services
 * Program Committee Member
   *	IAAA Workshop of IEEE ICDM 2021
 
-<https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV.pdf>
 [Click to download my CV]: https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV.pdf
 
 
