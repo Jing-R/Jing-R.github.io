@@ -1,5 +1,5 @@
 ---
-title: "API An Index for Quantifying a Scholar's Academic Potential"
+title: "API: An Index for Quantifying a Scholar's Academic Potential"
 collection: publications
 permalink: "/files/10-2019-API An Index for Quantifying a Scholar's Academic Potential.pdf"
 excerpt: ''
