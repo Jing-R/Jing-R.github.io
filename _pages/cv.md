@@ -66,7 +66,7 @@ Professional Services
 
 Click to download my CV
 ======
-<ul>https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV.pdf</ul>
+https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV.pdf
 
 <!-- 
 Publications
