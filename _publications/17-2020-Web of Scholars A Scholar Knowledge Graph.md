@@ -1,7 +1,7 @@
 ---
 title: "Web of Scholars: A Scholar Knowledge Graph"
 collection: publications
-permalink: /publication/17-2020-Web of Scholars A Scholar Knowledge Graph
+permalink: "/files/17-2020-Web of Scholars A Scholar Knowledge Graph.pdf"
 excerpt: ''
 date: 2020-06-01
 venue: 'The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)'
