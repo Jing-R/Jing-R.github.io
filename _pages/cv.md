@@ -67,23 +67,4 @@ Professional Services
 
 <!-- [Click to download my CV](https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV-20220725.pdf) -->
 [Click to download my CV](https://drive.google.com/viewerng/viewer?embedded=true&url=github.com/Jing-R/Jing-R.github.io/raw/master/files/CV-20220725.pdf)
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
 
