@@ -27,7 +27,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ 'https://drive.google.com/viewerng/viewer?embedded=true&url=' }}{{ post.paperurl }}">{{ title }}</a>
+      <a href="{{ 'https://drive.google.com/viewerng/viewer?embedded=true&url=' }}{{ post.paperurl }}">{{ title }}</a> 
+      <a href="{{ post.paperurl }}"> <b>&#8659;</b> </a>
     </h2>
     
     {% if post.read_time %}
@@ -49,7 +50,7 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"> <b>&#8794;</b> </a></p>
+      <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
