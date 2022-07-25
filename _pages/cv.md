@@ -65,8 +65,8 @@ Professional Services
   *	IAAA Workshop of IEEE ICDM 2021
 
 
-[Click to download my CV](https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV-20220725.pdf)
-
+<!-- [Click to download my CV](https://github.com/Jing-R/Jing-R.github.io/raw/master/files/CV-20220725.pdf) -->
+[Click to download my CV](https://drive.google.com/viewerng/viewer?embedded=true&url=github.com/Jing-R/Jing-R.github.io/raw/master/files/CV-20220725.pdf)
 <!-- 
 Publications
 ======
